@@ -1,4 +1,4 @@
-baseURL = "https://blog.bloxxyyy.io"
+baseURL = "https://bloxxyyy.github.io"
 languageCode = "en-US"
 title = "bloxxyyy's blog"
 theme = "github-style"
@@ -11,7 +11,7 @@ pygmentsUseClasses = true
   description = "Created as a creative outlet."
   rss = true
   location = "The Netherlands"
-  headerIcon = "https://blog.bloxxyyy.io/images/avatar.png"
+  headerIcon = "https://bloxxyyy.github.io/images/avatar.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
