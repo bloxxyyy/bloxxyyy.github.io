@@ -1,0 +1,17 @@
+baseURL = "https://blog.bloxxyyy.io"
+languageCode = "en-US"
+title = "bloxxyyy's blog"
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "bloxxyyy"
+  github = "bloxxyyy"
+  description = "Created as a creative outlet."
+  rss = true
+  location = "The Netherlands"
+  headerIcon = "https://blog.bloxxyyy.io/images/avatar.png"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
